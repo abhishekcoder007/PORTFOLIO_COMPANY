@@ -11,18 +11,22 @@ body {
 /*css  used for navbar */
 .nav__intro {
   background-color: #333647;
+ 
 }
 .myname {
   margin: 0px;
 }
 
+
 .navbar_container {
+  
   display: flex;
   align-items: center;
   justify-content: space-between;
 
   background-color: rgba(184, 18, 18, 0.1);
   margin-left: 0px;
+ 
 
   padding: 20px 80px;
 
@@ -76,7 +80,7 @@ body {
 /* banner--intro */
 
 .banner {
-  border: 2px solid pink;
+  /* border: 2px solid pink; */
   height: 91vh;
   position: relative;
 
@@ -160,7 +164,7 @@ video {
 .intro_image {
   /* border: 2px solid rgb(23, 23, 217); */
   width: 35vw;
-  height: 80vh;
+  height: 100vh;
 }
 .intro_title > h1 {
   color: rgb(227, 138, 21);
@@ -284,5 +288,7 @@ video {
   border-radius: 5px;
   cursor: pointer;
 }
+
+
 
 
